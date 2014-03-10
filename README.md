@@ -1,4 +1,4 @@
-What is MaxCoin?
+What is CredStick?
 ==============
 
 An alternative cryptocurrency disrupting the already rather disrupting crypto market.
